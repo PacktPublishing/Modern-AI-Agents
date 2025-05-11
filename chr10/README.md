@@ -13,7 +13,7 @@ This project is a Streamlit-based web application that uses multiple AI agents t
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/PacktPublishing/Modern-AI-Agents.git
 cd your-repo-name
 ```
 
