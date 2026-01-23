@@ -81,7 +81,7 @@ pillow==11.1.0
 platformdirs==4.3.8
 prometheus_client==0.21.1
 prompt_toolkit==3.0.51
-protobuf==5.29.3
+protobuf==7.34.0rc1
 psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
